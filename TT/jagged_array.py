@@ -1,6 +1,4 @@
-# Jagged array in Python
 
-# Creating a jagged array
 jagged_array = [
     [1, 2, 3],          # Row 1 with 3 elements
     [4, 5],             # Row 2 with 2 elements
