@@ -6,7 +6,6 @@ jagged_array = [
     [10]                # Row 4 with 1 element
 ]
 
-# Accessing elements in the jagged array
 for row in jagged_array:
     for element in row:
         print(element, end=" ")
